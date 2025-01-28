@@ -4,7 +4,7 @@ A deep learning project for identifying bird species from images, built with PyT
 
 ---
 
-## Features 🚀
+## Features 
 - **Custom Dataset**: Handles bird images and associated metadata for training and testing.
 - **Preprocessing Pipeline**: Efficient image transformations and data augmentation.
 - **Deep Learning Models**: Supports ResNet18 and EfficientNet10
