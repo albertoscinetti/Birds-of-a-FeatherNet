@@ -1,6 +1,8 @@
 # Birds of a Feather 🐦
 
-A deep learning project for identifying bird species from images, built with PyTorch. This project includes custom data processing, model training, and evaluation using state-of-the-art architectures like ResNet and EfficientNet.
+A deep learning project for identifying bird species from images, built with PyTorch. This project includes custom data processing, model training, and evaluation using pre trained state-of-the-art architectures like ResNet and EfficientNet.
+
+Participated in Kaggle competition: https://www.kaggle.com/competitions/aml-2024-feather-in-focus
 
 ---
 
